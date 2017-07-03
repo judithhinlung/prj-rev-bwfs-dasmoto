@@ -1,0 +1,29 @@
+body {
+  font-family: Helvetica, "sans serif";
+  background-image: url('../images/pattern.jpg')
+}
+
+h1 {
+  color: #f0e68c;
+  font-size: 100px;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 32px;
+}
+.brushes h2 {
+  background-color: #00fa9a;
+}
+
+.brushes h2 {
+  background-color: #f08080;
+}
+
+.paint h2 {
+  background-color: #00bfff;
+}
+
+.prices {
+  color: #0000ff;
+}
